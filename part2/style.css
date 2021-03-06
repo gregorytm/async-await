@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    background-color: green;
+}
+
+
+#game-board{
+    margin-top: 6em;
+}
+
+button {
+    margin: 0 auto;
+}
+
+/* solutions */
+
+#game-board > img {
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto;
+  }
